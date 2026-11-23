@@ -1,6 +1,9 @@
 Client Onboarding Analytics
+
 Excel data cleaning and a Power BI dashboard on client onboarding performance (practice dataset).
+
 **Tools:** Excel, Power BI
+
 **Key findings**
 - 68% of accounts completed, 9% rejected
 - Only 29% of completed accounts met the 3-day SLA
