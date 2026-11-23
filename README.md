@@ -11,3 +11,5 @@ Excel data cleaning and a Power BI dashboard on client onboarding performance (p
 - KYC issues were the top rejection reason (3 of 7)
   
 Full write-up: see the Findings document in this repository.
+![Dashboard](dashboard.png)
+
